@@ -1,0 +1,16 @@
+{
+  "name": "yanolang",
+  "version": "0.0.1",
+  "description": "yanolang-server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yano"
+  ],
+  "author": "justin villa",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
